@@ -1,0 +1,86 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Tribubal Regional Eleitoral da Bahia - CAT 360°
+
+## Skin
+
+### Button
+Button_0A054365_2D09_CB9F_4145_8C365B373D19.label = Depósito de Urnas
+Button_0A054365_2D09_CB9F_4145_8C365B373D19.pressedLabel = Depósito de Urnas
+Button_0A054365_2D09_CB9F_4145_8C365B373D19_mobile.label = Depósito de Urnas
+Button_0A054365_2D09_CB9F_4145_8C365B373D19_mobile.pressedLabel = Depósito de Urnas
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E.label = Imagem  Aérea
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E.pressedLabel = Imagem  Aérea
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E_mobile.label = Imagem  Aérea
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E_mobile.pressedLabel = Imagem  Aérea
+Button_5B1F16A9_4F08_3101_41C0_148FE9D83410.label = Acesso  Principal
+Button_5B1F16A9_4F08_3101_41C0_148FE9D83410.pressedLabel = Acesso  Principal
+Button_5B1F16A9_4F08_3101_41C0_148FE9D83410_mobile.label = Acesso  Principal
+Button_5B1F16A9_4F08_3101_41C0_148FE9D83410_mobile.pressedLabel = Acesso  Principal
+Button_BE80485F_9626_5C69_41E1_9BF8D1BE21C6.label = Área de Testes
+Button_BE80485F_9626_5C69_41E1_9BF8D1BE21C6.pressedLabel = Área de Testes
+Button_BE80485F_9626_5C69_41E1_9BF8D1BE21C6_mobile.label = Área de Testes
+Button_BE80485F_9626_5C69_41E1_9BF8D1BE21C6_mobile.pressedLabel = Área de Testes
+
+### Multiline Text
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:15px;"><I>Marginal Rodovia Br-324, 7234, Arraial do Retiro, Salvador - BA</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:15px;"><I>Contato:  (71)  99202 - 1806</I></SPAN></SPAN></DIV></div>
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7.5px;"><I>Marginal Rodovia Br-324, 7234, Arraial do Retiro, Salvador - BA</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7.5px;"><I>Contato:  (71)  99202 - 1806</I></SPAN></SPAN></DIV></div>
+
+## Media
+
+### Title
+panorama_0296D7EF_0EF7_106F_41A0_A65C659A13CA.label = 23
+panorama_02A71CF6_0EF7_1070_4194_06EE8BFC4124.label = 25
+panorama_02AF5E75_0EF7_F073_41AC_001F1F527DAD.label = 1
+panorama_02BF9A8F_0EF7_30AF_4191_3FB14051AF8F.label = 24
+panorama_02C245D3_0EF1_30B7_41AB_6D71D944C693.label = 19
+panorama_02C8C81E_0EF1_1FB1_41A4_3D6C495F953F.label = 22
+panorama_02D1D32D_0EF1_7193_41A7_983058C8B470.label = 21
+panorama_02DA145D_0EF1_17B3_419D_3D5F2733EA80.label = 20
+panorama_02E31E96_0EF1_10B1_419C_38C2828B95FA.label = 17
+panorama_02EAC070_0EF1_1071_41A3_249989FDAF7E.label = 18
+panorama_02FBCD63_0EF1_F197_41AD_4859C8AA1A2A.label = 16
+panorama_05035BE9_0EF1_1093_419B_EEED9BA308F8.label = 13
+panorama_050BAC9E_0EF1_30B1_41AD_A10286AEFF27.label = 14
+panorama_050C9CC5_0EF1_1093_4196_DA5527864BEC.label = 15
+panorama_05126751_0EF1_11B3_4183_A25EF8C7A0F0.label = 11
+panorama_051F7911_0EF1_71B3_41A7_6228D4091A39.label = 12
+panorama_0526617B_0EF1_1077_4138_46033F314AD2.label = 9
+panorama_0528E3DD_0EF1_30B3_41A1_B2CF46D05795.label = 10
+panorama_05361C70_0EF3_1071_418A_9652804BE059.label = 6
+panorama_0538FD8B_0EF3_3097_41A7_88E5E79B1B56.label = 7
+panorama_053C18B6_0EF3_10F1_41AA_F7204EB5D856.label = 3
+panorama_053D4F3E_0EF3_11F1_41A1_FFC1D1C14448.label = 8
+panorama_054DAAAA_0EF3_7091_41A8_CD5A9D508649.label = 5
+panorama_1F2AFA49_0EF1_1393_419C_65CFF16EFA66.label = 2
+video_A233AD57_AD93_3778_41CD_F7B362B9794B.label = area_testes_
+video_A6300F38_A87F_6D4E_41C3_8861ECC7A97D.label = cat
+video_BCE1E015_AD92_ECF9_41C3_C9DB468DADB8.label = sala_manutencao_
+video_BD08E6BD_AD95_1529_41D7_6C0104A7E753.label = urna_eletronica_
+
+## Action
+
+### URL
+LinkBehaviour_2455369C_374A_EE78_4182_BEE2E4BFDD82.source = https://www.youtube.com/tvtreba
+LinkBehaviour_2C21C507_375E_E248_41BE_1BE438D63B1C.source = https://www.facebook.com/trebahia
+LinkBehaviour_2C225511_375E_E248_41C2_54B4DB2E6406.source = https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/vlibras
+LinkBehaviour_2C23A507_375E_E248_41CA_D2A64457C475.source = https://open.spotify.com/show/0QOarDS0INSfrKy5ACpqAi?si=XNYJizsbRu2Gq5oLYdg_yg&nd=1
+LinkBehaviour_2C3CC511_375E_E248_41BD_D37E58232AC7.source = https://www.tiktok.com/@tre_ba
+LinkBehaviour_2C3D0507_375E_E248_4198_412AD0EEBC33.source = https://twitter.com/trebahia
+LinkBehaviour_2C3D5507_375E_E248_41C7_58AE3DC5691C.source = https://www.instagram.com/trebahia
+LinkBehaviour_2C3D8507_375E_E248_41C5_7AEE3F627C20.source = https://www.youtube.com/tvtreba
+LinkBehaviour_2C3DC511_375E_E248_41BF_46BC0DA9ED41.source = https://www.flickr.com/photos/trebahia
+LinkBehaviour_2C3F94F3_375E_E3C8_41C2_945856CC72B5.source = https://www.youtube.com/tvtreba
+LinkBehaviour_84D21CA6_99E2_33C8_41BA_943DD978AC61.source = https://open.spotify.com/show/0QOarDS0INSfrKy5ACpqAi?si=XNYJizsbRu2Gq5oLYdg_yg&nd=1
+LinkBehaviour_865825B3_99FD_DDC8_41AC_3848D02695D7.source = https://twitter.com/trebahia
+LinkBehaviour_86DDBF4D_99FE_2D5B_41E0_AE3D835C3C94.source = https://www.instagram.com/trebahia
+LinkBehaviour_870FDCFA_99FE_3338_41C5_BDCB7BBC7ACA.source = https://www.youtube.com/tvtreba
+LinkBehaviour_87115B7D_99E2_553B_41C5_E74C1AC47296.source = https://www.facebook.com/trebahia
+LinkBehaviour_8759FEE2_99FE_2F48_41E1_5053637132D7.source = https://www.tiktok.com/@tre_ba
+LinkBehaviour_B8942796_AD9D_73FB_41E4_7B013C50F121.source = https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/vlibras
+LinkBehaviour_B9B1B223_99FF_D6CF_41C0_8CDDC62E64B8.source = https://www.flickr.com/photos/trebahia
