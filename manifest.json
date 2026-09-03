@@ -1,4 +1,8 @@
 {
+ "start_url": "index.htm?installed=true",
+ "name": "Tribubal Regional Eleitoral da Bahia - CAT 360°",
+ "display": "fullscreen",
+ "background_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -36,9 +40,5 @@
    "src": "misc/icon16.png"
   }
  ],
- "name": "Tribubal Regional Eleitoral da Bahia - CAT 360°",
- "display": "fullscreen",
- "start_url": "index.htm?installed=true",
- "theme_color": "#FFFFFF",
- "background_color": "#FFFFFF"
+ "theme_color": "#FFFFFF"
 }
